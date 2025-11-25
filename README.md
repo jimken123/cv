@@ -10,6 +10,8 @@ This CV is based on the format created by [Iftimie Alexandru](https://medium.com
 
 - Test pdf on paper
 - Trawl Midokura resources for skills to add to CV (Confluence, JIRA, ReadTheDocs, Github, VS Code, etc.)
+- Add About page for more detail
+- Learn API, build out an API project
 
 ## Done
 
