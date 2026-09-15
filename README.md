@@ -1,4 +1,4 @@
-# Jim Kennedy CV
+# Jim Kennedy - Documentation Specialist CV
 
 Source code for my professional CV, based on this [template](https://themewagon.com/themes/free-html5-professional-portfolio-website-template-hola/).
 
