@@ -238,7 +238,7 @@ blockquote {
 blockquote:before {
     content: "\201C";
     font-size: 10rem;
-    line-height: 0px;
+    line-height: 0px; 
     margin: 0;
     color: rgba(0, 0, 0, 0.15);
     font-family: arial, sans-serif;
@@ -1281,6 +1281,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .15rem;
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.section-intro a {
+    color: #949292;
+}
+
+.section-intro a1 {
+    color: #862121;
 }
 
 .section-intro.has-bottom-sep {
