@@ -4,4 +4,6 @@ Source code for my professional CV, based on this [template](https://themewagon.
 
 The website is available at [jimkennedy.cv](https://jimkennedy.cv).
 
-To update the pdf, generate from localhost and print it from there.
+- To update the human-friendly version of the CV as a pdf, make edits to /human-cv/cv-human.html, generate from localhost, save as .pdf, upload to /human-cv.
+
+- To update the ATS-friendly version of the CV as a  pdf, generate from Pages on the Mac, save as .pdf, upload to /pdf.
